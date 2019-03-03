@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "hash.phonebook.App",
+            "projectName": "hash-phonebook-0216"
+        }
+    ]
+}
